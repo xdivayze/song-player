@@ -8,7 +8,7 @@ yt-dlp
 
 YT-DLP PATH MUST BE SPECIFIED INSIDE LIB.RS
 
-<em>Legal Notifier</em>
+<b>Legal Notifier</b>
 
 Please be aware that some of the videos downloaded from YouTube may be protected by copyright laws. Downloading and using copyrighted videos without prior permission, selling them, or committing copyright infringement violates YouTube's Terms of Service and may be considered illegal.
 
